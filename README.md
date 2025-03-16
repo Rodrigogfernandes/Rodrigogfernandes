@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Rodrigo Guedes Fernandes!
 
-<img src="https://avatars.githubusercontent.com/u/179077082?v=4" 
-     style="float: left; border-radius: 50%; margin-right: 20px; width: 100px;">
+
 
 Desenvolvedor apaixonado por tecnologia, inovação e resolução de problemas. Atualmente, estou focado em aplicações e paginas web e sempre em busca de novos desafios para expandir meus conhecimentos.
 
