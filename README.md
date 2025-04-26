@@ -13,7 +13,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 ### Linguagens de Programação
 - JavaScript ✅
 - Css5 ✅
-- Html ✅
+- Html5 ✅
 - Noções em PHP ✅
 - Noções Python ✅
 
