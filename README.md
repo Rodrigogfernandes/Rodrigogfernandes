@@ -16,12 +16,15 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 - Html5 ✅
 - Noções em PHP ✅
 - Noções Python ✅
+  
+### Banco de dados
+- MongoDB
 
 ---
 
 ## 🏆 Curso
 
-- CURSANDO CIENCIAS DA COMPUTAÇÃO
+- CURSANDO CIENCIAS DA COMPUTAÇÃO     <img src="https://github.com/user-attachments/assets/48953480-098c-4c06-82f0-aaf18aca930f" alt="Loading GIF" width="30">
 
 ---
 
