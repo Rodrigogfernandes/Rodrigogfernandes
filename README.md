@@ -17,6 +17,7 @@
   <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
 
+
 ##
 
 Sou **desenvolvedor web** com foco em criação de soluções funcionais, responsivas e com boa performance. Atuo com desenvolvimento de aplicações modernas utilizando **JavaScript**, **HTML**, **CSS**, **PHP**, **Mysql** e **MongoDB**.
