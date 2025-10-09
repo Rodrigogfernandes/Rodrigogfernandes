@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🚀 Rodrigo Guedes Fernandes — Desenvolvedor Web</h1>
+<h1 align="center"> 👨🏻‍💻 Rodrigo Guedes Fernandes — Desenvolvedor Web</h1>
 
 
 
@@ -9,7 +9,7 @@ Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo u
 <br>
 
 ---
-<h2 align="center">👨🏻‍💻 Linguagens e Tecnologias</h2>
+<h2 align="center">🚀 Linguagens e Tecnologias</h2>
 
 <div align="center"><br>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp; &nbsp;&nbsp;
@@ -30,6 +30,7 @@ Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo u
   <a href="https://github.com/Rodrigogfernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigogfernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes&layout=compact&langs_count=16&theme=radical"/>
+  </a>
 </div>
 
 ---
