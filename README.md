@@ -51,5 +51,5 @@ Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo u
   </a>
 </div>
 
-
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
