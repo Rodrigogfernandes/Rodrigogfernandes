@@ -3,7 +3,7 @@
 
 
 
-Sou **desenvolvedor web** com foco em criação de soluções funcionais, responsivas e com boa performance. Atuo com desenvolvimento de aplicações modernas utilizando **JavaScript**, **HTML**, **CSS**, **PHP**, **Mysql** e **MongoDB**.
+Sou **desenvolvedor web** com foco em criação de soluções funcionais, responsivas e com boa performance. Atuo com desenvolvimento de aplicações modernas utilizando **JavaScript**, **HTML**, **CSS**, **PHP** e **Mysql**.
 
 Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo usuário** para transformar ideias em aplicações que fazem diferença de verdade.
 <br>
