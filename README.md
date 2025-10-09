@@ -34,14 +34,6 @@ Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo u
 - Manipulação de dados com MongoDB
 - Projetos pessoais com foco em aprendizado contínuo e boas práticas
 
-
----
-
-## 🧪 Projetos em Destaque
-
-> **Confira meus repositórios no GitHub para ver exemplos reais de projetos com JavaScript, front-end moderno e integração com banco de dados.**  
-> 👉 [https://github.com/Rodrigogfernandes](https://github.com/Rodrigogfernandes)
-
 ---
 
 ## 🎓 Formação Acadêmica
