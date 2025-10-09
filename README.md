@@ -51,6 +51,8 @@ Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo u
   </a>
 </div>
 
- ![Snake animation](https://github.com/Rodrigogfernandes/Rodrigogfernandes/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+<img src="https://raw.githubusercontent.com/Rodrigogfernandes/Rodrigogfernandes/output/snake.svg" alt="Snake animation" />
+   
+ </div>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
