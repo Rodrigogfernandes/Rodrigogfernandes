@@ -1,9 +1,9 @@
 
-<h1 align="center"> 👨🏻‍💻 Rodrigo Guedes Fernandes — Desenvolvedor Web</h1>
+<h1 align="center"> 👨🏻‍💻 Rodrigo Guedes Fernandes — Desenvolvedor Frontend</h1>
 
 
 
-Sou **desenvolvedor web** com foco em criação de soluções funcionais, responsivas e com boa performance. Atuo com desenvolvimento de aplicações modernas utilizando **JavaScript**, **HTML**, **CSS**, **PHP** e **Mysql**.
+Sou desenvolvedor web com foco em criação de soluções funcionais, responsivas e com boa performance. Atuo com desenvolvimento de aplicações modernas utilizando **JavaScript**, **HTML5**, **CSS3**, **PHP** e **Mysql**.
 
 Combino **atenção aos detalhes**, **pensamento analítico** e **empatia pelo usuário** para transformar ideias em aplicações que fazem diferença de verdade.
 <br>
