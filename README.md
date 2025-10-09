@@ -50,9 +50,14 @@ Universidade com foco em desenvolvimento web, algoritmos, estruturas de dados e 
 ## 🤝 Vamos nos conectar?
 
 Estou em busca de **novas oportunidades como desenvolvedor web** — especialmente em ambientes que valorizem aprendizado contínuo, colaboração e desafios técnicos.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogfernandes/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodrigogfernandes)
+<div align="center">
+<a href="https://www.linkedin.com/in/rodrigogfernandes" target="_blank">
+  <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+</a>
+  <a href="https://github.com/Rodrigogfernandes" target="_blank">
+  <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn">
+</a>
+</div>
 
 ---
 
