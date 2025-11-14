@@ -50,7 +50,7 @@
 ### 🚀 Projetos em destaque
 <div align="center">
   <a href="https://github.com/Rodrigogfernandes/Portifolio-Dark" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Portifolio-dark&theme=radical&border_color=00c6ff" alt="Portfólio Responsivo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Portifolio-Dark&theme=radical&border_color=00c6ff" alt="Portfólio Responsivo" />
   </a>
   <a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=To-Do-List&theme=radical&border_color=00c6ff" alt="To-Do List" />
@@ -79,6 +79,12 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</div>  
 
 ---
 
