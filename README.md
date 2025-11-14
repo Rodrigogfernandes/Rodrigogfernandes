@@ -37,6 +37,8 @@
 ---
 
 ### 🛠️ Toolbox de impacto
+<div align="center">
+  
 | Área | Ferramentas favoritas |
 | --- | --- |
 | UI Engineering | React, Next.js, Astro, Tailwind, Sass |
@@ -44,6 +46,8 @@
 | Dados & Storage | MySQL, Supabase, LocalStorage |
 | Qualidade | Vitest, Cypress, Chrome DevTools, Lighthouse |
 | Design Ops | Figma, Storybook, Notion |
+
+</div>  
 
 ---
 
@@ -65,8 +69,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Pagina-ADV&theme=radical&border_color=00c6ff" alt="Página ADV" />
   </a>
 </div>
+<br>
 
-> Clique em qualquer card para abrir o repositório. Cada projeto possui screenshots, backlog e instruções de execução detalhadas.
+Clique em qualquer card para abrir o repositório. Cada projeto possui screenshots, backlog e instruções de execução detalhadas.
 
 ---
 
@@ -114,8 +119,8 @@
   <img src="https://raw.githubusercontent.com/Rodrigogfernandes/Rodrigogfernandes/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI2Y3c5b2swanR3bGFyZTZ4ejVrdDVuM3k1cTl3ZjU0azhtbDhlbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/NoG7j1Z0XHXXL7d5bx/giphy.gif" width="140" alt="Animated divider" />
-</div>
+</div> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=160&section=footer&animation=twinkling&text=Feito%20com%20c%C3%B3digo%20e%20cafe%C3%ADna%20☕&fontColor=ffffff&fontSize=22" />
