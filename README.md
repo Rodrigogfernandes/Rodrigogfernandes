@@ -65,8 +65,8 @@
   <a href="https://github.com/Rodrigogfernandes/PortfolioClean" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=PortfolioClean&theme=radical&border_color=00c6ff" alt="Portfolio Clean" />
   </a>
-  <a href="https://github.com/Rodrigogfernandes/Pagina-ADV" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Pagina-ADV&theme=radical&border_color=00c6ff" alt="Página ADV" />
+  <a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Registro-de-Pacientes&theme=radical&border_color=00c6ff" alt="Regirsto de Pacientes" />
   </a>
 </div>
 <br>
