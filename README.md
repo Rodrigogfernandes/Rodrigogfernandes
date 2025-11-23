@@ -53,8 +53,8 @@
 
 ### 🚀 Projetos em destaque
 <div align="center">
-  <a href="https://github.com/Rodrigogfernandes/Portifolio-Dark" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Portifolio-Dark&theme=radical&border_color=00c6ff" alt="Portfólio Responsivo" />
+  <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=LoginModerno&theme=radical&border_color=00c6ff" alt="Pagina de Login e Cadastro Moderno" />
   </a>
   <a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=To-Do-List&theme=radical&border_color=00c6ff" alt="To-Do List" />
