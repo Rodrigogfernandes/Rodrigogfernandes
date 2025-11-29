@@ -52,7 +52,7 @@
 ---
 
 ### 🚀 Projetos em destaque
-<div align="center">
+ <div align="center">
   <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=LoginModerno&theme=radical&border_color=00c6ff" alt="Pagina de Login e Cadastro Moderno" />
   </a>
@@ -68,11 +68,11 @@
   <a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Registro-de-Pacientes&theme=radical&border_color=00c6ff" alt="Regirsto de Pacientes" />
   </a>
-</div>
+</div> 
 
 <div align="center">
-  <a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
-    <img height="350" width="400" src="https://rodrigogfernandes.github.io/To-Do-List/assets/img/ToDoList.gif" alt="To-Do List" />
+ <a href="https://github.com/Rodrigogfernandes/JiuLOG" target="_blank">
+    <img src="https://rodrigogfernandes.github.io/JiuLOG/assets/images/gif/image.gif" height="350" width="400" alt="To-Do List" />
   </a>
   <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
     <img height="350" width="400" src="https://rodrigogfernandes.github.io/LoginModerno/assets/img/exemple.gif" alt="Pagina de Login e Cadastro Moderno" />
