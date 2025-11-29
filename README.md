@@ -68,17 +68,7 @@
   <a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Registro-de-Pacientes&theme=radical&border_color=00c6ff" alt="Regirsto de Pacientes" />
   </a>
-</div> 
-
-<div align="center">
- <a href="https://github.com/Rodrigogfernandes/JiuLOG" target="_blank">
-    <img src="https://rodrigogfernandes.github.io/JiuLOG/assets/images/gif/image.gif" height="350" width="400" alt="To-Do List" />
-  </a>
-  <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
-    <img height="350" width="400" src="https://rodrigogfernandes.github.io/LoginModerno/assets/img/exemple.gif" alt="Pagina de Login e Cadastro Moderno" />
-  </a>
 </div>
-
 <br>
 
 Clique em qualquer card para abrir o repositório. Cada projeto possui screenshots, backlog e instruções de execução detalhadas.
