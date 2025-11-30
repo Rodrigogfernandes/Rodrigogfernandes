@@ -53,21 +53,16 @@
 
 ### 🚀 Projetos em destaque
  <div align="center">
-  <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=LoginModerno&theme=radical&border_color=00c6ff" alt="Pagina de Login e Cadastro Moderno" />
-  </a>
-  <a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=To-Do-List&theme=radical&border_color=00c6ff" alt="To-Do List" />
-  </a>
+<a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=LoginModerno&theme=radical&border_color=00c6ff" alt="Pagina de Login e Cadastro Moderno"></a>&nbsp;
+<a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=To-Do-List&theme=radical&border_color=00c6ff" alt="To-Do List"></a>
 </div>
-
 <div align="center">
-  <a href="https://github.com/Rodrigogfernandes/PortfolioClean" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=PortfolioClean&theme=radical&border_color=00c6ff" alt="Portfolio Clean" />
-  </a>
-  <a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Registro-de-Pacientes&theme=radical&border_color=00c6ff" alt="Regirsto de Pacientes" />
-  </a>
+<a href="https://github.com/Rodrigogfernandes/PortfolioClean" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=PortfolioClean&theme=radical&border_color=00c6ff" alt="Portfolio Clean"></a>&nbsp;
+<a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Registro-de-Pacientes&theme=radical&border_color=00c6ff" alt="Regirsto de Pacientes"></a>
 </div>
 <br>
 
@@ -77,19 +72,10 @@ Clique em qualquer card para abrir o repositório. Cada projeto possui screensho
 
 ### 📊 Estatísticas com energia
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigogfernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>  
 
 ---
 
