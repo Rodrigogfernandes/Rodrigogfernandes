@@ -72,9 +72,12 @@ Clique em qualquer card para abrir o repositório. Cada projeto possui screensho
 
 ### 📊 Estatísticas com energia
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" /><br>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <!-- Troféus -->
+<img src="https://github-profile-trophy.vercel.app/?username=Rodrigogfernandes&theme=radical&margin-w=10" />
+
 </div>
 
 ---
@@ -82,21 +85,16 @@ Clique em qualquer card para abrir o repositório. Cada projeto possui screensho
 ### 🤝 Vamos nos conectar?
 <div align="center">
   <a href="https://rodrigodev.net" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-rodrigodev.net-00c6ff?style=for-the-badge&labelColor=0d1117" alt="Site rodrigodev.net" />
-  </a>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-rodrigodev.net-00c6ff?style=for-the-badge&labelColor=0d1117" alt="Site rodrigodev.net" /></a>
   <br /><br />
   <a href="https://www.linkedin.com/in/rodrigogfernandes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Rodrigogfernandes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Seguir-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-Seguir-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://wa.me/5583999251636" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Converse-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+    <img src="https://img.shields.io/badge/WhatsApp-Converse-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:rodrigo.guedes.f@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-Responder-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/E--mail-Responder-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 ---
