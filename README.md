@@ -77,11 +77,9 @@ Clique em qualquer card para abrir o repositório. Cada projeto possui screensho
 
 ### 📊 Estatísticas com energia
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogfernandes&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
   <img height="170em" src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" /><br>
 
-  <!-- Troféus -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rodrigogfernandes&theme=radical&margin-w=10" />
+
 
 </div>
 
