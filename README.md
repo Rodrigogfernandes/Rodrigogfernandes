@@ -54,15 +54,15 @@
 ### 🚀 Projetos em destaque
  <div align="center">
 <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=LoginModerno&theme=radical&border_color=00c6ff" alt="Pagina de Login e Cadastro Moderno"></a>&nbsp;
+  <img height="200" src="https://github.com/Rodrigogfernandes/LoginModerno/blob/main/assets/img/exemple.gif" alt="Pagina de Login e Cadastro Moderno"></a>&nbsp;
 <a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=To-Do-List&theme=radical&border_color=00c6ff" alt="To-Do List"></a>
+  <img height="200" src="https://raw.githubusercontent.com/Rodrigogfernandes/To-Do-List/main/assets/img/ToDoList.gif" alt="To-Do List">
 </div>
 <div align="center">
 <a href="https://github.com/Rodrigogfernandes/PortfolioClean" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=PortfolioClean&theme=radical&border_color=00c6ff" alt="Portfolio Clean"></a>&nbsp;
+  <img height="200" src="https://github.com/Rodrigogfernandes/PortfolioClean/blob/main/assets/img/index.gif" alt="Portfolio Clean"></a>&nbsp;
 <a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigogfernandes&repo=Registro-de-Pacientes&theme=radical&border_color=00c6ff" alt="Regirsto de Pacientes"></a>
+  <img height="200" src="https://github.com/Rodrigogfernandes/Registro-de-Pacientes/blob/main/src/assets/images/image.gif" alt="Regirsto de Pacientes"></a>
 </div>
 <br>
 
