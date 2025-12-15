@@ -53,21 +53,14 @@
 
 ### 🚀 Projetos em destaque
  <div align="center">
-<a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank">
-  <p4>Pagina de Login e Cadastro</p4>  
-  <img height="200" width="280" src="https://github.com/Rodrigogfernandes/LoginModerno/blob/main/assets/img/exemple.gif" alt="Pagina de Login e Cadastro Moderno"></a>&nbsp;
-<a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank">
-  <p4>To-Do List</p4>  
-  <img height="200" src="https://raw.githubusercontent.com/Rodrigogfernandes/To-Do-List/main/assets/img/ToDoList.gif" alt="To-Do List">
-</div>
-  
-<div align="center">
-<a href="https://github.com/Rodrigogfernandes/PortfolioClean" target="_blank">
-  <p4>Portfolio Clean</p4>
-  <img height="2300" width="320" src="https://github.com/Rodrigogfernandes/PortfolioClean/blob/main/assets/img/index.gif" alt="Portfolio Clean"></a>&nbsp;
-<a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank">
-  <p4>Regirsto de Pacientes</p4>
-  <img height="200" width="280" src="https://github.com/Rodrigogfernandes/Registro-de-Pacientes/blob/main/src/assets/images/image.gif" alt="Regirsto de Pacientes"></a>
+   
+| | Projetos ||
+| --- | --- | -- |
+|  Pagina de Login e Cadastro | To-Do List | Git Master Pro |
+| <a href="https://github.com/Rodrigogfernandes/LoginModerno" target="_blank"><img height="180" width="260" src="https://github.com/Rodrigogfernandes/LoginModerno/blob/main/assets/img/exemple.gif" alt="Login e Cadastro Moderno"></a> | <a href="https://github.com/Rodrigogfernandes/To-Do-List" target="_blank"><img height="180" width="260" src="https://github.com/Rodrigogfernandes/To-Do-List/blob/main/assets/img/ToDoList.gif" alt="To Do List"></a> | <a href="https://github.com/Rodrigogfernandes/Git-Master-Pro" target="_blank"><img height="180" width="260" src="https://github.com/Rodrigogfernandes/Git-Master-Pro/blob/main/src/img/image.png" alt="Pagina de Login e Cadastro Moderno"></a> 
+| Pagina para Clinica | Portfolio Clean | Regirsto de Pacientes | 
+|<a href="https://github.com/Rodrigogfernandes/pagina-clinica" target="_blank"><img height="200" width="280" src="https://github.com/Rodrigogfernandes/pagina-clinica/blob/main/assets/img/gif/image.gif" alt="Pagina de Login e Cadastro Moderno"></a> | <a href="https://github.com/Rodrigogfernandes/PortfolioClean" target="_blank"><img height="2300" width="320" src="https://github.com/Rodrigogfernandes/PortfolioClean/blob/main/assets/img/index.gif" alt="Portfolio Clean"></a> | <a href="https://github.com/Rodrigogfernandes/Registro-de-Pacientes" target="_blank"><img height="200" width="280" src="https://github.com/Rodrigogfernandes/Registro-de-Pacientes/blob/main/src/assets/images/image.gif" alt="Regirsto de Pacientes"></a> |
+
 </div>
 <br>
 
@@ -77,9 +70,9 @@ Clique em qualquer card para abrir o repositório. Cada projeto possui screensho
 
 ### 📊 Estatísticas com energia
 <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" /><br>
-
-
+  
+  <img height="170em" src="https://streak-stats.demolab.com?user=Rodrigogfernandes&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <br>
 
 </div>
 
